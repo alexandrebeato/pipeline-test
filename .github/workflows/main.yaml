@@ -14,3 +14,5 @@ jobs:
         run: echo "Test"
       - name: Build
         run: echo "Build"
+      - name: Build 2
+        run: echo "Build2"
