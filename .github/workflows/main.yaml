@@ -12,3 +12,5 @@ jobs:
     steps:
       - name: Test
         run: echo "Test"
+      - name: Build
+        run: echo "Build"
